@@ -1,5 +1,8 @@
 # AWS SDK Java 2.x S3 example
 
+The reference for this code is from the tutorial:
+https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/get-started.html
+
 ## Build
 
 ```
